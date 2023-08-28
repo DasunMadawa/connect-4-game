@@ -20,5 +20,6 @@ public class AppInitializer extends Application {
         primaryStage.setTitle("Connect 4 Game - Create Player");
         primaryStage.show();
         primaryStage.centerOnScreen();
+        
     }
 }
